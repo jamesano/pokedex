@@ -1,0 +1,6 @@
+:root{
+    --color-electric: #bba909;
+}
+body{
+    background-color: var(--color-electric);
+}
